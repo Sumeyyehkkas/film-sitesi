@@ -8,3 +8,6 @@ film ve dizileri seçebileceğiniz bir sistemdir
 
 HTML CSS İLE görsel arayuz saglandı
 
+<h1> Ekran Görünümü</h1>
+
+![](ekran.gif)
